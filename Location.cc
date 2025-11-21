@@ -1,3 +1,4 @@
+// I didn't write this code 
 
 #include "Location.h"
 
@@ -19,6 +20,7 @@ int Location::getDistance(const Location& l) const{
 void Location::print() const{  
     cout<<"Latitude: "<<x<<", Longitude: "<<y<<endl;
 }
+
 
 
 
