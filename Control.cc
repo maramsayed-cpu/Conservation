@@ -1,3 +1,4 @@
+// I didn't write this code 
 
 #include "Control.h"
 #include <limits>
@@ -190,4 +191,5 @@ const string names[NUM_RESEARCHERS] = {
     "Diana",
     "Ethan"
 };
+
 
