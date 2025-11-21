@@ -1,3 +1,5 @@
+// I didn't write this code 
+
 #ifndef LOCATION_H
 #define LOCATION_H
 
@@ -18,5 +20,6 @@ class Location {
     private:
         
 };
+
 
 #endif
