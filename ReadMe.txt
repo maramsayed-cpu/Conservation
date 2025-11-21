@@ -1,7 +1,5 @@
-COMP 2404 - Assignment 3
-
-Name: Maram Sayed
-Student #: 101304334
+Description:
+A system that tracks and implements sightings, with their corresponding researchers and stations. 
 
 Files:
 main.cc -> main file source code
